@@ -119,7 +119,7 @@ li{
 }
 
 .nav-link{
-    font-family: 'The Historia Demo', sans-serif;
+    font-family: 'Amita', cursive;
     font-size: 4rem;
     padding: 1rem;
 }
@@ -196,7 +196,7 @@ li{
 
 .landing-text h1{
     font-size: 20rem;
-    font-family: "The Historia Demo", sans-serif;
+    font-family: 'Amita', cursive;
     background: linear-gradient(to top, #ffe838, #fd57bf);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
